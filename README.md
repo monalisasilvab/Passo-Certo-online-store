@@ -44,7 +44,7 @@ The structure was designed to offer users a user-friendly experience, with clear
 - **HTML**: Page structure. 
 - **CSS**: Visual styling of the page.
 
-## 📚 Colaboradores  
+## 📚 Collaborators  
 - **Monalisa Silva Bezerra** (Developer).  
 - **Fábio José** (Guiding teacher).
 - **Alanis Oliveira** (Project facilitator).
