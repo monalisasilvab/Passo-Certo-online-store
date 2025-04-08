@@ -1,5 +1,7 @@
 # Virtual store 👟🛍️
 
+Final project presented in the basic module of the Atlantic Institute's Capacita Brasil bootcamp.
+
 ## 📌 Project description
 This is a project for an **Online Footwear Store - Passo Certo** developed with the goal of simulating a basic and functional interface for displaying products, browsing and adding items to the shopping cart. The page was designed with a focus on a footwear catalog, featuring different models for different styles and preferences.
 
